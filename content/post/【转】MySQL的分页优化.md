@@ -11,6 +11,7 @@ author = "xiaojiong"
 ### 准备工作
 1.  本文示例环境为MySQL5.6、InnoDB
 2.  建表与数据初始化，数据来源于官网提供的employees库salaries表
+
 ```
 CREATE TABLE `t_salaries` (
   `id` int(11) NOT NULL AUTO_INCREMENT,
