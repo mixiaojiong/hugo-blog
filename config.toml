@@ -4,7 +4,7 @@ theme = "ghostwriter"
 languageCode = "en-us"
 copyright = "Xiaojiong"
 googleAnalytics = "UA-50430029-1"
-disqusShortname = "XXX"
+disqusShortname = "www-xiaojiong-net"
 
 [Author]
     name = "xiaojiong"
@@ -16,7 +16,7 @@ disqusShortname = "XXX"
 [Params]
     intro = true
     headline = "人生就像一场马拉松"
-    description = "当你的才华还撑不起你的野心时，你就应该静下心来学习。"
+    description = "当你的才华还撑不起你的野心时，你就应该静下心来学习"
     github = "https://github.com/mixiaojiong"
     opengraph = true
 
