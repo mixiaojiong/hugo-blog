@@ -1,7 +1,8 @@
 +++
-title = "about"
-draft = true
+title = "关于我"
+author = "xiaojiong"
 date = "2016-12-02T00:23:50+08:00"
+description = "人生就像一场马拉松"
 
 +++
 
